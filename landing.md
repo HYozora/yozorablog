@@ -1,7 +1,7 @@
 ---
 layout: landing
-title: Landing
-description: Lorem ipsum dolor sit amet nullam consequat<br />sed veroeros. tempus adipiscing nulla.
+title: More About Me
+description: Just a little more in description
 image: assets/images/pic07.jpg
 nav-menu: yes
 ---
@@ -14,7 +14,7 @@ nav-menu: yes
 			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		<header class="major">
-			<h1>Landing</h1>
+			<h1>About Me</h1>
 		</header>
 		<div class="content">
 			<p>{{ page.description }}</p>
@@ -29,9 +29,9 @@ nav-menu: yes
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>When I started gaming</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>The only thing I can remember is my brother (six years older) getting the Nintendo and I usually was sneaking to play it with Mario Bros. I think I may have been around three or four. Strangely I figured out how to turn on the power > play, then if it was unplugged, plug it in! lol I think my brother was annoyed with me so he just hid the power adapter and that was that.</p>
 	</div>
 </section>
 
