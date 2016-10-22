@@ -11,14 +11,14 @@ title-normal: Lucina Yozora
 email: 
 description: A FFXIV blog of Lucina Yozora
 baseurl: "/yozorablog" # the subpath of your site, e.g. /blog
-url: "https://hyozora.gitlab.io" # the base hostname & protocol for your site
+url: "https://hyozora.github.io/" # the base hostname & protocol for your site
 author: Lucina Yozora
 street_address: Lily Hills
 city: Gridania
 state: Central Shroud
 zip_code: The Black Shroud
 country: Eorzea
-phone: What's a phone?
+phone: What's a phone? Linkshell okay!
 
 # Plugins
 gems:
