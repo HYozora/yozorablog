@@ -8,7 +8,7 @@
 # Site settings
 title-bold: Light in the Nightsky
 title-normal: Lucina Yozora
-email: 
+email: What?
 description: A FFXIV blog of Lucina Yozora
 baseurl: "/yozorablog" # the subpath of your site, e.g. /blog
 url: "https://hyozora.github.io/" # the base hostname & protocol for your site
