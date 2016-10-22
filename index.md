@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
-description: 
+landing-title: Welcome to my blog!
+description: FFXIV blog
 image: 
 author: 
 nav-menu: 
