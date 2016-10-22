@@ -11,7 +11,7 @@ title-normal: Lucina Yozora
 email: 
 description: A FFXIV blog of Lucina Yozora
 baseurl: "/yozorablog" # the subpath of your site, e.g. /blog
-url: "https://HYozora.gitlab.io" # the base hostname & protocol for your site
+url: "https://hyozora.gitlab.io" # the base hostname & protocol for your site
 author: Lucina Yozora
 street_address: Lily Hills
 city: Gridania
