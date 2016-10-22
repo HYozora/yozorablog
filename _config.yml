@@ -10,7 +10,7 @@ title-bold: Light in the Nightsky
 title-normal: Lucina Yozora
 email: 
 description: A FFXIV blog of Lucina Yozora
-baseurl: "/ffxivwebsite" # the subpath of your site, e.g. /blog
+baseurl: "/yozorablog" # the subpath of your site, e.g. /blog
 url: "https://HYozora.gitlab.io" # the base hostname & protocol for your site
 author: Lucina Yozora
 street_address: Lily Hills
