@@ -15,8 +15,6 @@
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
 		        <li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
-			<li><a href="{{ page.url | prepend: site.baseurl | remove: "elements.md" }}">{{ page.title }}</a></li>
-			<li><a href="{{ page.url | prepend: site.baseurl | remove: "generic.md" }}">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
