@@ -19,6 +19,7 @@ state: Central Shroud
 zip_code: The Black Shroud
 country: Eorzea
 phone: What's a phone? Linkshell okay!
+paginate: 5
 
 # Plugins
 gems:
