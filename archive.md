@@ -1,5 +1,5 @@
 ---
-layout: post-archive
+layout: page
 title: Archives
 ---
 ## Blog List
