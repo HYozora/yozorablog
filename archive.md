@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post-archive
 title: Archives
 ---
-## Older blogs
+## Blog List
 
-place-ment
