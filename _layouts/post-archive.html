@@ -6,7 +6,8 @@
 <body>
 
     {% include header.html %}
-    
+ 
+    <section id="post-archive" >
         <div>
           {% for post in paginator.posts %}
             {% include post-list.html%}
@@ -15,6 +16,8 @@
 
     {% include pagination.html %}
     
+     </section>
+        
     {% include footer.html %}
 
 </body>
