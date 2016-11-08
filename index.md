@@ -19,6 +19,9 @@ nav-menu:
 			<ul class="actions">
 				<li><a href="#one" class="button next scrolly">Latest Blog</a></li>
 			</ul>
+			<ul class="actions">
+			<li><a href="landing.html" class="button next">日本語版はこちらです！</a></li>
+		</ul>
 		</div>
 	</div>
 </section>
@@ -35,10 +38,7 @@ nav-menu:
 		<header class="major">
 			<h2>About Me</h2>
 		</header>
-		<p>Started playing my first MMO with Final Fantasy XI and some WoW but didn't really get into WoW. Then played FFXIV 1.0 near the end of the three months, into beta and then ARR and Heavensward.</p>
-		<ul class="actions">
-			<li><a href="landing.html" class="button next">Find out Mooorrrreee!!</a></li>
-		</ul>
+		<p>My first MMO was Final Fantasy XI for a few years and a bit of WoW but didn't really get into it. Then played FFXIV 1.0 near the end of the three months, into beta and then ARR and Heavensward.</p>
 	</div>
 </section>
 
