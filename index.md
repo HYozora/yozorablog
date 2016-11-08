@@ -18,9 +18,11 @@ nav-menu:
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
 				<li><a href="#one" class="button next scrolly">Latest Blog</a></li>
-			</ul>  
+			</ul>
+			<br>
+			<p style="text-transform: uppercase;">日本語のブログもあります！</p>
 			<ul class="actions">
-			<li><a href="landing.html" class="button next">日本語版はこちらです！</a></li>
+			<li><a href="landing.html" class="button next">こちらです！</a></li>
 		</ul>
 		</div>
 	</div>
