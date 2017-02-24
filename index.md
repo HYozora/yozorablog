@@ -38,6 +38,16 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
+			<h2>Archives</h2>
+		</header>
+		<p>placement for archive link or posts.</p>
+	</div>
+</section>
+
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
 			<h2>About Me</h2>
 		</header>
 		<p>My first MMO was Final Fantasy XI for a few years and a bit of WoW but didn't really get into it. Then played FFXIV 1.0 near the end of the three months, into beta and then ARR and Heavensward.</p>
