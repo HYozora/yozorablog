@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Archives
+title: Blog
 ---
 ## Blog List
 
