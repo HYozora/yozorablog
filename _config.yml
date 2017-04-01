@@ -29,8 +29,8 @@ gems:
   - jemoji
 
 # Homepage tiles
-tiles-source: pages # accepts "posts" or "pages" 
-tiles-count: 6
+tiles-source: posts # accepts "posts" or "pages" 
+tiles-count: 8
 
 # Social settings
 500px_url: 
